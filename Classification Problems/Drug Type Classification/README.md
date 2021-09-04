@@ -1,6 +1,6 @@
 # Classifying different Drug Types
 
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](http://numpy.org)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](http://numpy.org)[[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 **Probelm:**  
 To classify the correct drug type given different features. This falls under *Multiclass Classification* type of classification problems.
@@ -19,7 +19,7 @@ The data set contains various information that effect the predictions like Age, 
 * Drug Type
 
 **Running the code:**
-* Download the notebook and the dataset *drug200.csv* and run it in your local broswer or open the notebook to view the code.
+* Download the notebook *drug-classification-data-analysis-modelling.ipynb* and the dataset *drug200.csv* and run it in your local broswer or open the [notebook](https://github.com/ashwin4ever/Machine-Learning-Projects/blob/main/Classification%20Problems/Drug%20Type%20Classification/drug-classification-data-analysis-modelling.ipynb)
 
 
 **Methods**  
